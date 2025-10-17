@@ -57,8 +57,8 @@ Founder/CTO & Full-Stack Developer passionate about building scalable MERN + AI 
 
 ## 📈 GitHub Stats
 
-![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhimanyuSantani&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuSantani&layout=compact&theme=radical)
+![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=santani2611&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santani2611&layout=compact&theme=radical)
 
 ---
 
